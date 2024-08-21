@@ -1,2 +1,2 @@
 # soldering-station
-CircuitPython code to manage a sign over MQTT
+Manage an LED matrix sign over MQTT
